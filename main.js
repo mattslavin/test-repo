@@ -1,1 +1,1 @@
-Removed all code on master branch
+// Removed all code on master branch
