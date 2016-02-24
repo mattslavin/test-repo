@@ -5,3 +5,6 @@ Testing rebase
 And another commit from testing-rebase
 
 testing rebase again - 3rd commit
+
+
+This is another change on main.js on the rebase branch
