@@ -3,3 +3,5 @@
 
 Testing rebase
 And another commit from testing-rebase
+
+testing rebase again - 3rd commit
