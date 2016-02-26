@@ -24,4 +24,14 @@ This is another change on main.js on the rebase branch
 feb 26 - -  9.55 adding another commit after rebase
 
 
+
+
+10.09 test rebase v2 start 
+
 10:12 testing git commit v2 - added to main.js
+
+
+10.38 adding another set of changes
+
+10:39 main.js
+
