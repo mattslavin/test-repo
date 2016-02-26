@@ -17,13 +17,30 @@ testing rebase again - 3rd commit
 
 This is another change on main.js on the rebase branch
 
-
+Thurs feb 25 - 5.47 - rebase test 
 
 -- 12.39  Updating main.js on rebase branch
+-- 12.58 testing rebase using command line
+
+
 
 feb 26 - -  9.55 adding another commit after rebase
 
 
+
+
+
+
+feb 26 - -  
+
+9.55 adding another commit after rebase
+
+-- 12.58 testing rebase using command line-- 12.58 testing rebase using command line
+
+
+
+
+10.09 test rebase v2 start 
 
 
 10.09 test rebase v2 start 
